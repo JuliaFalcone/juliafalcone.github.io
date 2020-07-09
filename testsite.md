@@ -1,7 +1,6 @@
-theme: jekyll-theme-cayman
----
-title: PAGE TITLE HERE
-filename: testsite
+layout: page
+title: "PAGE TITLE"
+permalink: /testsite
 --- 
 An h1 header
 ============
