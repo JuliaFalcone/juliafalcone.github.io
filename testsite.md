@@ -1,6 +1,6 @@
+theme: jekyll-theme-cayman
 ---
 title: PAGE TITLE HERE
-layout: jekyll-theme-cayman
 filename: testsite
 --- 
 An h1 header
