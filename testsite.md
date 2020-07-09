@@ -1,3 +1,8 @@
+---
+title: PAGE TITLE HERE
+layout: cayman
+filename: testsite
+--- 
 An h1 header
 ============
 
