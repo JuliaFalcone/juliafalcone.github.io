@@ -1,4 +1,4 @@
-permalink:outhere
+permalink: /outhere
 
 # A Supplement for My Research Note:
 
