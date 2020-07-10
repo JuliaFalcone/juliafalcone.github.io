@@ -1,4 +1,4 @@
-permalink:googlesheets_supplement
+permalink: googlesheets_supplement
 
 # A Supplement for My Research Note:
 
