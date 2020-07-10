@@ -1,4 +1,4 @@
-permalink:googlesheets_supplement
+permalink:outhere
 
 # A Supplement for My Research Note:
 
